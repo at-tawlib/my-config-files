@@ -1,7 +1,10 @@
 # my-config-files
 
 ## init.vim
-use `nvim ~/.config/nvim/init.vim` to open the init.vim file
+- use `nvim ~/.config/nvim/init.vim` to open the init.vim file
+- If directory not available, create it.
+- Install vimplug. Choose the neovim option [here](https://github.com/junegunn/vim-plug)
+
 my configuration for neovim
 it includes betty coding stye plugin
 
